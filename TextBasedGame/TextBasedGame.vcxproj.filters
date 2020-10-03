@@ -40,6 +40,5 @@
     <Text Include="resources\level_1.txt" />
     <Text Include="resources\level_0.txt" />
     <Text Include="resources\level_-1.txt" />
-    <Text Include="resources\File_management_example_code.txt" />
   </ItemGroup>
 </Project>

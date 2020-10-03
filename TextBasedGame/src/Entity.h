@@ -8,7 +8,7 @@ public:
 	const char* type;
 
 	Entity() 
-	: health(2), damage(1)
+	: health(3), damage(1)
 	{}
 
 	virtual bool Move(int direction) {
